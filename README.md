@@ -1,5 +1,4 @@
 <div>
-    https://github.com/DevHRusty/DevHRusty/assets/144977663/2aeea358-15f6-430d-9f60-0c387d2424df
   <h1>Ola muito prazer, me chamo Heitor!</h1><br>
     <a href="https://github.com/DevHRusty/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevHRusty&theme=dark" /><br>
