@@ -1,5 +1,3 @@
-<body onload="largura = document.body.scrollWidth;altura = document.body.scrollHeight;"></body>
-
 <div>
   <h1>Ola muito prazer, me chamo Heitor!</h1><br>
     <a href="https://github.com/DevHRusty/github-readme-stats">
