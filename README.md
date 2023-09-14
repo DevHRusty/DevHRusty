@@ -4,7 +4,7 @@
       <img height=190 Width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=DevHRusty&theme=dark&show_icons=true" />
         <br>
           <a href="https://github.com/DevHRusty/convoychat">
-            <img height=200 Width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevHRusty&layout=compact&langs_count=8&card_width=320&theme=dark" />
+            <img height=140 Width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevHRusty&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
             
 <h2 align="center">Minhas Habilidades</h2>
